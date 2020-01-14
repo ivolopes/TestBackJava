@@ -1,4 +1,4 @@
-package br.com.testBackJava.clientservice.port.adapters.rest.system;
+package br.com.testBackJava.clientservice.port.adapters.rest.system.v1;
 
 import org.springframework.http.MediaType;
 import org.springframework.http.ResponseEntity;
